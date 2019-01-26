@@ -1,0 +1,3 @@
+Using the Bresenham Scan conversion techniques draw a line, circle or ellipse. 
+the line drawing algorithm should be able to handle all slopes and while drawing a circle or an ellipse use 8-way symmetry.
+Using the line primitives also draw the polygon. (for further details of the assignment refer the lab manual).
