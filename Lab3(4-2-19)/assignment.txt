@@ -1,0 +1,2 @@
+Clipping : To study and implement line clipping with cohen -Sutherland algorithm. Implement the Liang-Barsky Algorithm and Parametric clipping algorithm in the same manner for clipping a line. Study and implement polygon clipping algorithm using Sutherland –Hodgeman algorithm.
+You have to design a program which will take input the coordinates of two endpoints of a line and two windows coordinates. Then you have to draw the line and clipped window.
